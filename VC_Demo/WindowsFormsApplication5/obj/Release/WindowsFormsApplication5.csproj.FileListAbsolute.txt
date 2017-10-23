@@ -1,0 +1,12 @@
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\halcondotnet.dll
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\halcondotnet.xml
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.FormMain.resources
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.exe
+C:\Users\ht_jan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.pdb
